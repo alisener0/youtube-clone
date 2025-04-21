@@ -1,22 +1,24 @@
-# youtube-clone
-📦 Kullanılan Kütüphaneler ve Teknolojiler
-react-router-dom: Sayfalar arası geçiş ve yönlendirme işlemleri için.
-
-react-icons: Uygulamada ikon kullanımı için.
-
-axios: API isteklerini gerçekleştirmek için HTTP istemcisi.
-
-tailwind: Hızlı ve responsive tasarımlar için CSS framework’ü.
-
-moment: Tarih ve saat verilerini formatlamak için.
-
-millify: Büyük sayıları okunabilir biçime çevirmek için.
-
-react-player: Video oynatma bileşeni.
-
-Vite: Hızlı geliştirme ve derleme için modern React uygulama aracı.
-
-Proje, tüm cihazlara uyumlu olacak şekilde responsive olarak tasarlanmıştır.
+**YouTube Clone** is a front-end project that replicates the basic layout and functionality of YouTube. It allows users to browse video thumbnails, simulate a video watch page, and navigate through a responsive interface — all designed to mimic the YouTube user experience.
 
 
+🚀 Features
+🟥 YouTube-like user interface
+
+🖼️ Video thumbnail grid layout
+
+📱 Responsive design for mobile and desktop
+
+🔍 (Optional) Simulated search or category sections
+
+🛠️ Technologies Used
+HTML5 – Structure
+
+CSS3 – Styling (possibly with Flexbox/Grid)
+
+JavaScript – Interactivity (if applicable)
+
+👤 Developer
+Ali Şener
+
+https://github.com/user-attachments/assets/f1a9a33f-4261-4163-8509-bf60eb41ad5c
 
